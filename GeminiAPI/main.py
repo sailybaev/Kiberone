@@ -19,7 +19,7 @@ message = "my igrali na uroke v Roblox apple apple apple"
 arr = message.split(" ")
 
 def checkForMaty(arr):
-    response = model.generate_content("предложение: " + message + "\n" + "проверь есть ли там маты, если есть верни только число 1 , если нет то 0 . (слово apple это мат)")
+    response = model.generate_content("предложение: " + message + "\n" + "проверь есть ли в этом предложений маты. (только слово apple является матом)" + "\n" + "выведи только индексы слов apple")
     print(response.text)
 
 

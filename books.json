@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fiction",
+      "books": [
+        {
+          "id": 101,
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "year": 1960
+        },
+        {
+          "id": 102,
+          "title": "1984",
+          "author": "George Orwell",
+          "year": 1949
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Non-Fiction",
+      "books": [
+        {
+          "id": 201,
+          "title": "Sapiens: A Brief History of Humankind",
+          "author": "Yuval Noah Harari",
+          "year": 2011
+        },
+        {
+          "id": 202,
+          "title": "Educated",
+          "author": "Tara Westover",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Science Fiction",
+      "books": [
+        {
+          "id": 301,
+          "title": "Dune",
+          "author": "Frank Herbert",
+          "year": 1965
+        },
+        {
+          "id": 302,
+          "title": "The Martian",
+          "author": "Andy Weir",
+          "year": 2011
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fantasy",
+      "books": [
+        {
+          "id": 401,
+          "title": "The Hobbit",
+          "author": "J.R.R. Tolkien",
+          "year": 1937
+        },
+        {
+          "id": 402,
+          "title": "Harry Potter and the Sorcerer's Stone",
+          "author": "J.K. Rowling",
+          "year": 1997
+        }
+      ]
+    }
+  ]
+}
